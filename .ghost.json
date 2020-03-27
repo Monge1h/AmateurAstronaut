@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://localhost:2368",
-    "contentApiKey": "7f89e33111058343809b4f995a"
+    "apiUrl": "https://amateurastronaut.herokuapp.com",
+    "contentApiKey": "e9c21c44204c1230f7696aedba"
   },
   "production": {
-    "apiUrl": "https://amateurastronaut.serveo.net",
-    "contentApiKey": "7f89e33111058343809b4f995a"
+    "apiUrl": "https://amateurastronaut.herokuapp.com",
+    "contentApiKey": "e9c21c44204c1230f7696aedba"
   }
 }
